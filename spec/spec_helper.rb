@@ -29,4 +29,4 @@ end
 SimpleCov.start 'no_vendor_coverage'
 
 require 'json'
-require './lib/sinatra-template'
+require './lib/overwatch'
