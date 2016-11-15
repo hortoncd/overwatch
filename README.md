@@ -1,9 +1,9 @@
-Sinatra Template Application
+Overwatch
 
 Description
 ===========
 
-Simple sinatra application template with rspec, capybara and simplecov.
+Simple sinatra application with rspec, capybara and simplecov.
 
 Running
 =======
