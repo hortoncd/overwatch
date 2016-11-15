@@ -1,5 +1,5 @@
 require 'sinatra'
-require_relative 'lib/sinatra-template'
+require_relative 'lib/overwatch'
 
 module AppHelpers
   def escape(m)
@@ -7,7 +7,7 @@ module AppHelpers
   end
 end
 
-set :title, 'Sinatra Template'
+set :title, 'Overwatch'
 set :pages, [
   {
     'name' => 'about',
