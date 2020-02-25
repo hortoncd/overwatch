@@ -6,7 +6,7 @@ gem 'rake', '~> 10.1.0'
 gem 'sinatra', '~> 2.0.0'
 gem 'droplet_kit', '~> 2.0.0'
 gem 'activesupport', '~> 4.1'
-gem 'nokogiri', '~> 1.10.4'
+gem 'nokogiri', '~> 1.10.8'
 
 group :test, :develop do
   gem 'foreman', '~> 0.78.0'
