@@ -40,7 +40,7 @@ GEM
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
     ice_nine (0.11.2)
-    json (2.1.0)
+    json (2.3.1)
     kartograph (0.2.7)
     mime-types (3.2.2)
       mime-types-data (~> 3.2015)
