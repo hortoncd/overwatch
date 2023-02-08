@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 gem 'rake', '~> 12.3.3'
 gem 'sinatra', '~> 2.2.3'
 gem 'droplet_kit', '~> 3.19.0'
-gem 'activesupport', '~> 6.0'
+gem 'activesupport', '~> 6.1'
 gem 'nokogiri', '~> 1.13.10'
 
 group :test, :develop do
